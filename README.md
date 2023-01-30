@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught web developer based out of Phoenix, Az. Primary interests are backend development and databases.
+My name is Wes and I'm a self-taught web developer based out of Phoenix, Az. Primary interests are backend development and databases. I'm always willing to meet new people and new minds. Please reach out!
 
 - 🔭 Ruby on Rails
 - 🌱 I’m currently learning tailwind and machine learning/AI
