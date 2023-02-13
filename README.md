@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning tailwind and spanish
 - 👯 I’m looking to collaborate on web applications with AI
 - 💬 Ask me about pragmatic programming
-- 📫 How to reach me: [Linkdin](www.linkedin.com/in/matthew-wesley-larson-694040218) || email: wesley.larson73@gmail.com  
+- 📫 How to reach me: [Linkdin](www.linkedin.com/in/matthew-wesley-larson-694040218) || email: weslarsondev@gmail.com || website: www.weslarson.com
 - ⚡ Hobbies: guitar, camping/hiking, writing/reading, stoicism, retro video games, skill development
 -->
