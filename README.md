@@ -3,7 +3,7 @@
 My name is Wes. I'm a self-taught web developer based out of Phoenix, Az. Interests include backend development and databases, although my front-end skills are growing. :)  I'm always eager to meet new people and new minds. Please reach out!
 
 - 🔭 Ruby on Rails
-- 🌱 I’m currently learning tailwind and machine learning/AI
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on web applications with AI
 - 💬 Ask me about pragmatic programming
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/matthew-wesley-larson-694040218) || email: wesley.larson73@gmail.com  
